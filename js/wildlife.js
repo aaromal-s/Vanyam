@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Purple Frog',
       scientific: 'Nasikabatrachus sahyadrensis',
       category: 'amphibian',
-      img: 'https://images.unsplash.com/photo-1474511320723-9a56873571b7?w=500&q=80',
+      img: 'https://images.unsplash.com/photo-1463852247062-1bbca38f7805?w=500&q=80',
       habitat: 'Underground in the Western Ghats, surfaces only during monsoon for breeding',
       diet: 'Insectivore — termites, ants (eaten underground using a specialised tongue)',
       behaviour: 'Spends almost its entire life underground. Emerges for only about two weeks during monsoon to breed.',
@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Neelakurinji',
       scientific: 'Strobilanthes kunthiana',
       category: 'flower',
-      img: 'https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=500&q=80',
+      img: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=500&q=80',
       habitat: 'Shola-grassland mosaic above 1,600 m',
       importance: 'Iconic Western Ghats flower. Mass blooming events attract tourism and pollinator activity.',
       fact: 'Neelakurinji blooms once every 12 years, carpeting entire hillsides in vivid blue-purple. The next expected bloom is around 2030.'
@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Wild Orchids',
       scientific: 'Dendrobium, Vanda, Habenaria spp.',
       category: 'flower',
-      img: 'https://images.unsplash.com/photo-1567722066618-045ad3849292?w=500&q=80',
+      img: 'https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=500&q=80',
       habitat: 'Tropical and montane forests, often epiphytic on tree branches',
       importance: 'Indicators of forest health. Over 300 orchid species occur in Kerala\'s Western Ghats.',
       fact: 'Many of Kerala\'s orchids are epiphytes — they grow on other plants without harming them, using the host tree for support while gathering nutrients from the air and rain.'
@@ -264,7 +264,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Malabar Cinnamon',
       scientific: 'Cinnamomum verum',
       category: 'endemic',
-      img: 'https://images.unsplash.com/photo-1474311956516-9e4be0811f85?w=500&q=80',
+      img: 'https://images.unsplash.com/photo-1502082553048-f009c37129b9?w=500&q=80',
       habitat: 'Tropical evergreen forests of the Western Ghats',
       importance: 'True cinnamon, native to the Western Ghats. Kerala was historically a major cinnamon-trading region.',
       fact: 'Kerala\'s spice trade, including cinnamon, attracted traders from Rome, Arabia and China over 2,000 years ago, making Kerala one of the ancient world\'s most important trading centres.'
@@ -273,7 +273,7 @@ document.addEventListener('DOMContentLoaded', () => {
       name: 'Nilgiri Rhododendron',
       scientific: 'Rhododendron nilagiricum',
       category: 'endemic',
-      img: 'https://images.unsplash.com/photo-1490750967868-88aa4f44baee?w=500&q=80',
+      img: 'https://images.unsplash.com/photo-1550853024-fae8cd4be47f?w=500&q=80',
       habitat: 'Shola forests above 1,800 m',
       importance: 'Endemic to the Western Ghats. Indicator species for high-altitude shola forest health.',
       fact: 'The Nilgiri Rhododendron blooms in vibrant red during February–March, adding splashes of colour to the otherwise green shola forests.'

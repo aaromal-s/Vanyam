@@ -458,7 +458,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   const forestModals = {
     'forest-evergreen': `
-      <img class="modal-img" src="https://images.unsplash.com/photo-1441974231531-d6222b60ce6a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Tropical Evergreen Forest">
+      <img class="modal-img" src="https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Tropical Evergreen Forest">
       <h2>Tropical Evergreen Forest</h2>
       <div class="modal-detail"><span class="modal-detail-label">Rainfall</span><span class="modal-detail-value">Over 2,500 mm annually</span></div>
       <div class="modal-detail"><span class="modal-detail-label">Elevation</span><span class="modal-detail-value">Up to 1,500 metres</span></div>
@@ -469,7 +469,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="modal-fact"><strong><span class="material-symbols-rounded">eco</span> Did you know?</strong>Kerala's tropical evergreen forests are among the oldest rainforests in the world, with some species lineages dating back over 50 million years.</div>
     `,
     'forest-deciduous': `
-      <img class="modal-img" src="https://images.unsplash.com/photo-1516026672322-bc525ce1464c?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Moist Deciduous Forest">
+      <img class="modal-img" src="https://images.unsplash.com/photo-1473448912268-2022ce9509d8?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Moist Deciduous Forest">
       <h2>Moist Deciduous Forest</h2>
       <div class="modal-detail"><span class="modal-detail-label">Rainfall</span><span class="modal-detail-value">1,500–2,500 mm annually</span></div>
       <div class="modal-detail"><span class="modal-detail-label">Elevation</span><span class="modal-detail-value">500–1,200 metres</span></div>
@@ -480,7 +480,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="modal-fact"><strong><span class="material-symbols-rounded">eco</span> Did you know?</strong>Kerala's teak plantations — originally established during British colonial rule — are now some of the most valuable timber forests in India.</div>
     `,
     'forest-shola': `
-      <img class="modal-img" src="https://images.unsplash.com/photo-1518182170546-076616fd4aa0?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Shola Forest">
+      <img class="modal-img" src="https://images.unsplash.com/photo-1511497584788-876760111969?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Shola Forest">
       <h2>Shola Forest</h2>
       <div class="modal-detail"><span class="modal-detail-label">Elevation</span><span class="modal-detail-value">Above 1,500 metres</span></div>
       <div class="modal-detail"><span class="modal-detail-label">Characteristics</span><span class="modal-detail-value">Stunted, dense evergreen forests found in sheltered valleys between grassland hilltops</span></div>
@@ -491,7 +491,7 @@ document.addEventListener('DOMContentLoaded', () => {
       <div class="modal-fact"><strong><span class="material-symbols-rounded">eco</span> Did you know?</strong>Shola forests are critical water catchments — their root systems and mossy soil can absorb and store enormous quantities of rainfall, slowly releasing it as streams throughout the year.</div>
     `,
     'forest-montane': `
-      <img class="modal-img" src="https://images.unsplash.com/photo-1472393365824-de5fb14db0b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Montane Grasslands">
+      <img class="modal-img" src="https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Montane Grasslands">
       <h2>Montane Grasslands</h2>
       <div class="modal-detail"><span class="modal-detail-label">Elevation</span><span class="modal-detail-value">Above 2,000 metres</span></div>
       <div class="modal-detail"><span class="modal-detail-label">Characteristics</span><span class="modal-detail-value">Rolling grassy slopes interspersed with shola forest patches in valleys</span></div>
@@ -585,7 +585,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ecosystem: 'Tropical Evergreen Rainforest',
       species: ['Lion-tailed Macaque', 'Nilgiri Langur', 'Malabar Giant Squirrel'],
       desc: 'One of the last remaining tracts of virgin tropical evergreen forest in India. Saved from a hydroelectric project by a historic environmental campaign in the 1980s.',
-      img: 'https://images.unsplash.com/photo-1501170750519-216503b8ccbd?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      img: 'https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
     },
     {
       name: 'Periyar Tiger Reserve',
@@ -593,7 +593,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ecosystem: 'Tropical Evergreen & Deciduous Forests',
       species: ['Tiger', 'Asian Elephant', 'Gaur'],
       desc: 'One of the most famous tiger reserves in India, centered around the massive Periyar Lake.',
-      img: 'https://images.unsplash.com/photo-1441974231531-d6222b60ce6a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      img: 'https://images.unsplash.com/photo-1448375240586-882707db888b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
     },
     {
       name: 'Eravikulam National Park',
@@ -609,7 +609,7 @@ document.addEventListener('DOMContentLoaded', () => {
       ecosystem: 'Moist Deciduous Forest',
       species: ['Asian Elephant', 'Tiger', 'Sloth Bear'],
       desc: 'Part of the Nilgiri Biosphere Reserve, this sanctuary is a vital corridor for elephant movement across state borders.',
-      img: 'https://images.unsplash.com/photo-1472393365824-de5fb14db0b2?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
+      img: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80'
     }
   ];
 
